@@ -1,7 +1,6 @@
-### Hi👋, I'am Carlos Silva
-Devops Engineer
+<h3 style="font-size: 24px;" align="center"> Hi👋, I'am Carlos Silva </h3>
+<p align="center">Devops Engineer</p>
 <hr />
-<br />
 <a href="https://www.linkedin.com/in/carlossilva2103/">
   <img align="left" style="margin-right: 16px;" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
