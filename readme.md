@@ -18,8 +18,9 @@
 👨‍💻 Sou apaixonado por otimizar processos e impulsionar a eficiência operacional. <br />
 
 ### Minhas experiencias 🙌
-  - [Estagiário Devops (B2ML Sistemas)](https://b2ml.com.br) - Agosto/21 - Maio/22
- - [Devops (B2ML Sistemas)](https://b2ml.com.br) - Junho/22 - Até agora
+- [Estagiário Devops (B2ML Sistemas)](https://b2ml.com.br) - Agosto/21 - Maio/22
+- [Devops (B2ML Sistemas)](https://b2ml.com.br) - Junho/22 - Fev/24
+- [Devops (KAEFER RIP Serviços Industriais)](https://kaeferbrasil.com.br) - Mar/24 - Até agora
 
 ### Principais habilidades
 <img align="left" style="margin-right: 16px;" width="24px" src="https://cdn.simpleicons.org/terraform"  />
@@ -31,3 +32,4 @@
 <img style="margin-right: 16px;" align="left" width="26px" src="https://cdn.simpleicons.org/amazonaws/orange" />
 <img style="margin-right: 16px;" align="left" width="26px" src="https://cdn.simpleicons.org/googlecloud" />
 <img style="margin-right: 16px;" align="left" width="26px" src="https://cdn.simpleicons.org/azuredevops" />
+
